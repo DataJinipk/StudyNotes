@@ -2,7 +2,7 @@
 
 **Source:** notes/reinforcement-learning/reinforcement-learning-study-notes.md
 **Concept Map Reference:** notes/reinforcement-learning/concept-maps/reinforcement-learning-concept-map.md
-**Date Generated:** 2026-01-06
+**Date Generated:** 2026-01-07
 **Total Problems:** 5
 **Distribution:** 1 Warm-Up | 2 Skill-Builder | 1 Challenge | 1 Debug/Fix
 

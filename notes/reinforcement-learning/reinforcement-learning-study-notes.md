@@ -1,7 +1,7 @@
 # Reinforcement Learning
 
 **Topic:** Reinforcement Learning: Foundations, Algorithms, and Applications
-**Date:** 2026-01-06
+**Date:** 2026-01-07
 **Complexity Level:** Advanced
 **Discipline:** Computer Science / Machine Learning / Artificial Intelligence
 
