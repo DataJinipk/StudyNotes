@@ -1,7 +1,6 @@
 # Practice Problems: Lesson 11 - Model Deployment and MLOps
 
 **Source:** Lessons/Lesson_11.md
-**Original Source Path:** C:\agentic_ai\StudyNotes\Lessons\Lesson_11.md
 **Date Generated:** 2026-01-08
 **Total Problems:** 5
 **Estimated Total Time:** 75-100 minutes

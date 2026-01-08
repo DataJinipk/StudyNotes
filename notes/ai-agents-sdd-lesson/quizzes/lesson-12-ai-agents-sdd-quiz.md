@@ -1,8 +1,7 @@
 # Assessment Quiz: AI Agents, Autonomous Systems, and Spec-Driven Development
 
-**Source Material:** Lesson 12 - AI Agents, Autonomous Systems, and Spec-Driven Development
-**Original Source Path:** C:\agentic_ai\StudyNotes\Lessons\Lesson_12.md
-**Flashcard Reference:** C:\agentic_ai\StudyNotes\notes\ai-agents-sdd-lesson\flashcards\lesson-12-ai-agents-sdd-flashcards.md
+**Source Material:** Lessons/Lesson_12.md
+**Flashcard Reference:** notes/ai-agents-sdd-lesson/flashcards/lesson-12-ai-agents-sdd-flashcards.md
 **Date Generated:** 2026-01-08
 **Total Questions:** 5
 **Estimated Completion Time:** 20-30 minutes

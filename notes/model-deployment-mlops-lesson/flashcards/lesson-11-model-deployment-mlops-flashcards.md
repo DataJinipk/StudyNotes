@@ -1,7 +1,6 @@
 # Flashcard Set: Lesson 11 - Model Deployment and MLOps
 
 **Source:** Lessons/Lesson_11.md
-**Original Source Path:** C:\agentic_ai\StudyNotes\Lessons\Lesson_11.md
 **Date Generated:** 2026-01-08
 **Total Cards:** 5
 **Distribution:** 2 Easy | 2 Medium | 1 Hard

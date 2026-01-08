@@ -1,7 +1,6 @@
 # Assessment Quiz: Lesson 11 - Model Deployment and MLOps
 
 **Source Material:** Lessons/Lesson_11.md
-**Original Source Path:** C:\agentic_ai\StudyNotes\Lessons\Lesson_11.md
 **Date Generated:** 2026-01-08
 **Total Questions:** 5
 **Estimated Completion Time:** 25-35 minutes

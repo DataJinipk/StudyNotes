@@ -1,7 +1,6 @@
 # Flashcard Set: Lesson 12 - AI Agents, Autonomous Systems, and Spec-Driven Development
 
 **Source:** Lessons/Lesson_12.md
-**Original Source Path:** C:\agentic_ai\StudyNotes\Lessons\Lesson_12.md
 **Date Generated:** 2026-01-08
 **Total Cards:** 5
 **Distribution:** 2 Easy | 2 Medium | 1 Hard

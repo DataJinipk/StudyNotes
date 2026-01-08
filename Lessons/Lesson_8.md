@@ -1,3 +1,4 @@
+
 # Lesson 8: Neural Network Architectures
 
 **Topic:** Neural Network Architectures: Design Patterns, Components, and Modern Innovations
@@ -628,4 +629,4 @@ Architecture selection should match data structure (spatial, sequential, graph),
 
 ---
 
-*Next Lesson: Lesson 9 - Advanced Topics*
+*Next Lesson: Lesson 9 - Natural Language Processing*
